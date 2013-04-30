@@ -1,0 +1,23 @@
+/* 
+    Document   : styles
+    Created on : 26/04/2013, 12:05:20
+    Author     : luffy
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+.container{
+    margin: 20px;
+}
+
+.container img{
+    
+}
+
+.canv{
+    border: 1px solid green;
+}
